@@ -1,5 +1,10 @@
-Members: Yu Chen, Yulin He, Fangzhou You, Nicolas Pineiro
-userpass and userfriends are the files for the server to read user information.
+A light weight chat tool that could be easily set up
+
+HOW TO USE
+Run server -- python3 Server.py 'portNo'
+Run client -- python3 CleintGui.py 'serverName' 'portNo'
+
+File userpass and userfriends store the user data.
 
 Username and password for the Chat client that is ready to use
 yulin/123
@@ -7,9 +12,6 @@ bill/123
 haa/123
 harry/123
 
-HOW TO USE
-Run server -- python3 Server.py 'portNo'
-Run client -- python3 CleintGui.py 'serverName' 'portNo'
 
 
 
